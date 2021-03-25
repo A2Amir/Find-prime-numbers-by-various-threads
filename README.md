@@ -3,8 +3,12 @@
 ##### A multi-threaded C program to find prime numbers between two ranges and the time it takes the program to run.
 
 
-* Step 1.Use the Atom editor to save the C source code on your laptop.
-
+* Step 1.Use the Atom editor to save the C source code on your laptop. Change the variables below in the code to what you want.
+                         
+                         NUM1    0
+                         NUM2    15
+                         NUMOFTHREADS    8
+                         
 * Step 2.Compile the program. Type the command 
 
             gcc -g -o prime prime.c -lpthread

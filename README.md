@@ -1,4 +1,4 @@
-# Find prime numbers on various threads
+# Find prime numbers by various threads
 
 ##### A multi-threaded C program to find prime numbers between two ranges and the time it takes the program to run.
 
